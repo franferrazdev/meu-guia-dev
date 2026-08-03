@@ -36,6 +36,7 @@ Bibliotecas e ecossistemas para turbinar o desenvolvimento no Frontend e Backend
 * **`zustand`**: Gerenciamento de estado global leve e performático.
 * **`shadcn-ui`**: Componentes de interface reutilizáveis e acessíveis.
 * **`bcryptsjs`**: Criptografia e hashing de senhas no servidor.
+* **`testes-unitarios`**: Comandos práticos, queries de acessibilidade e asserções com Jest e RTL.
 
 ### 💳 [Gateways de Pagamento](./gateways-de-pagamento/)
 Integrações financeiras e processamento de transações.
