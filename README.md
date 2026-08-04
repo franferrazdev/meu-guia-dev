@@ -28,15 +28,16 @@ Padrões de trabalho em equipe, versionamento e documentação.
 
 ### 📦 [Frameworks e Libs](./frameworks-e-libs/)
 Bibliotecas e ecossistemas para turbinar o desenvolvimento no Frontend e Backend.
-* **`nextjs`** / **`react`**: Frameworks para construção de interfaces modernas e SSR.
-* **`prisma`**: ORM para modelagem e migrações de banco de dados SQL.
-* **`zod`**: Validação de esquemas em tempo de execução e inferência de tipos.
-* **`nextauth`**: Estratégias e middlewares de autenticação.
-* **`tanstack-query`**: Gerenciamento de estado assíncrono e cache de APIs.
-* **`zustand`**: Gerenciamento de estado global leve e performático.
-* **`shadcn-ui`**: Componentes de interface reutilizáveis e acessíveis.
 * **`bcryptsjs`**: Criptografia e hashing de senhas no servidor.
+* **`nextauth`**: Estratégias e middlewares de autenticação.
+* **`nextjs`** / **`react`**: Frameworks para construção de interfaces modernas e SSR.
+* **`playwright`**: Automação de testes End-to-End (E2E), auto-waiting e gerenciamento de contextos de navegadores.
+* **`prisma`**: ORM para modelagem e migrações de banco de dados SQL.
+* **`shadcn-ui`**: Componentes de interface reutilizáveis e acessíveis.
+* **`tanstack-query`**: Gerenciamento de estado assíncrono e cache de APIs.
 * **`testes-unitarios`**: Comandos práticos, queries de acessibilidade e asserções com Jest e RTL.
+* **`zod`**: Validação de esquemas em tempo de execução e inferência de tipos.
+* **`zustand`**: Gerenciamento de estado global leve e performático.
 
 ### 💳 [Gateways de Pagamento](./gateways-de-pagamento/)
 Integrações financeiras e processamento de transações.
