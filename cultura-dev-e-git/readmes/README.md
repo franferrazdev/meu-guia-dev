@@ -59,28 +59,28 @@ Siga os passos abaixo para executar a aplicação localmente:
 1. Clone este repositório:
 ```bash
 git clone https://github.com
-```
+
 2. Entre na pasta do projeto:
 ```bash
 cd mycart-api
-```
+
 3. Instale as dependências:
 ```bash
 npm install
-```
+
 4. Configure as variáveis de ambiente baseando-se no `.env.example`:
 ```env
 DATABASE_URL="postgresql://user:password@localhost:5432/mycart"
 PORT=3000
-```
+
 5. Execute as migrações do banco de dados:
 ```bash
 npx prisma migrate dev
-```
+
 6. Inicie o servidor de desenvolvimento:
 ```bash
 npm run dev
-```
+
 
 O servidor estará rodando em `http://localhost:3000`.
 
@@ -127,19 +127,19 @@ Utilize a estrutura abaixo como base inicial para documentar qualquer novo repos
 1. Clone o repositório:
 ```bash
 git clone https://github.com[seu-usuario]/[seu-repositorio].git
-```
+
 2. Acesse a pasta do projeto:
 ```bash
 cd [nome-do-repositorio]
-```
+
 3. Instale as dependências:
 ```bash
 [Comando de instalação]
-```
+
 4. Execute a aplicação:
 ```bash
 [Comando para rodar]
-```
+
 
 ## 🤝 Como Contribuir
 1. Faça um **Fork** do repositório.
