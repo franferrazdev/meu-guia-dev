@@ -65,7 +65,7 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 ### 2. Criar PaymentIntent (Backend)
 ```javascript
 const intent = await stripe.paymentIntents.create({
-  amount: 2000, // Valor em centavos (ex: 2000 equivale a R\$ 20,00)
+  amount: 2000, // Valor em centavos (ex: 2000 equivale a R$ 20,00)
   currency: 'brl',
 });
 ```
