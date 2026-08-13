@@ -8,7 +8,7 @@ Guia rápido de referência com os comandos, conceitos e boas práticas que voc�
 
 ## 📌 Conceitos Essenciais
 
-| Conceito | Prefijo | Ambiente | Descrição |
+| Conceito | Prefixo | Ambiente | Descrição |
 | :--- | :--- | :--- | :--- |
 | **Publishable Key** | `pk_` | Frontend | Chave pública usada no navegador. Segura para expor no código do cliente. |
 | **Secret Key** | `sk_` | Backend | Chave secreta do servidor. Nunca deve ir para o controle de versão. |
